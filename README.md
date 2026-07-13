@@ -1,2 +1,28 @@
-# 430490deb6afad8e-devops-infra-inventory-trackin
-Every DevOps engineers and platform teams needs this — most just don't know it yet.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Devops Infra Inventory Tracking And Alerts — fully configured and ready to use - Pre
+# Devops Infra Inventory Tracking and Alerts System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E8wP9z96Akg88eM4cZK3u)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E8wP9z96Akg88eM4cZK3u)
+
